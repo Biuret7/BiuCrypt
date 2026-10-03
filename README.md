@@ -1,61 +1,32 @@
-<div align="center">
+# BiuCrypt
 
-# 🔐 BiuCrypt
+> **Future project concept — experimental repository.** This is a plan and a place for exploratory code, not a finished, audited, or deployment-ready product.
 
-### Protect files with clarity and control.
+A desktop file protection concept.
 
-A desktop **file protection project** that explores how security workflows can stay understandable from start to finish.
+## The idea
 
-<br>
+Make file and folder protection understandable through guided choices, clear operation state, and integrity-aware handling.
 
-![Protection](https://img.shields.io/badge/Focus-File%20Protection-65D8AD?style=for-the-badge)
-![Design](https://img.shields.io/badge/Approach-Clear%20Desktop%20UX-2563EB?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Preview-353B45?style=for-the-badge)
+## Planned capabilities
 
-<br>
+- Guided protection workflow
+- Validation and meaningful feedback
+- Progress and cancellation for longer operations
 
-[![Website](https://img.shields.io/badge/Case_Study-biuret.dev-2563EB?style=for-the-badge)](https://biuret.dev/sites/biucrypt.html)
+## Current status
 
-</div>
+The complete product is planned for the future. Existing files, if present, are drafts, prototypes, or experiments and may change or fail. Features listed above describe intended direction; they are not a claim that those features work today.
 
----
+## Next steps
 
-## 🛡️ About BiuCrypt
+1. Refine requirements and the intended user workflow.
+2. Build and test a small prototype against that plan.
+3. Document limitations, security boundaries, and validation results before considering a release.
 
-**BiuCrypt** explores a deliberate approach to protecting files and folders. The interface aims to keep important choices, operation state, and feedback clear to the user.
+## Links
 
-It is part of my work in applied security and practical desktop software design.
+- [Concept page on biuret.dev](https://biuret.dev/sites/biucrypt.html)
+- [Biuret portfolio](https://biuret.dev/)
 
----
-
-## ✨ Selected Features
-
-- 🧭 **Guided protection** — makes key decisions visible before an operation begins.
-- ✅ **Clear feedback** — helps users understand the state and outcome of a task.
-- ⏱️ **Controlled operations** — presents progress and cancellation in a predictable way.
-
----
-
-## 🧠 What This Project Demonstrates
-
-BiuCrypt has helped me practice careful file handling, validation thinking, and security-aware desktop UX.
-
-Cryptographic construction, protected formats, recovery behavior, source code, and program screenshots are not included in this public portfolio record.
-
----
-
-## 🚧 Project Status
-
-BiuCrypt is presented as a **portfolio preview**. This repository describes the project without distributing the application or making independent audit claims.
-
----
-
-## 👨‍💻 Developer
-
-**[Adam Hamdan (Biuret)](https://github.com/Biuret7)** · Cybersecurity and software development
-
-Explore the [full portfolio](https://biuret.dev/) or contact me at [adam7.workspace@gmail.com](mailto:adam7.workspace@gmail.com).
-
----
-
-<p align="center">🛡️ <i>Security should be deliberate and understandable.</i></p>
+Created by [Adam Hamdan (Biuret)](https://github.com/Biuret7).
